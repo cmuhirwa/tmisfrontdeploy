@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-redux-typescript-advance"]=this["webpackJsonpreact-redux-typescript-advance"]||[]).push([[35],{146:function(t,e,n){"use strict";n.r(e),n.d(e,"Termination",(function(){return c}));var r=n(121),a=n(1),c=function(){return Object(a.jsx)(r.b,{thisPage:r.a.terminationTab})}}}]);
+//# sourceMappingURL=35.4a939069.chunk.js.map
