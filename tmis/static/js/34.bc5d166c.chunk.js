@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-redux-typescript-advance"]=this["webpackJsonpreact-redux-typescript-advance"]||[]).push([[34],{147:function(e,t,n){"use strict";n.r(t),n.d(t,"Suspension",(function(){return r}));var s=n(121),c=n(1),r=function(){return Object(c.jsx)(s.b,{thisPage:s.a.suspensionTab})}}}]);
-//# sourceMappingURL=34.bc5d166c.chunk.js.map
