@@ -1,2 +1,0 @@
-(this.webpackJsonpTMIS=this.webpackJsonpTMIS||[]).push([[35],{146:function(n,t,i){"use strict";i.r(t),i.d(t,"Termination",(function(){return s}));var e=i(121),r=i(1),s=function(){return Object(r.jsx)(e.b,{thisPage:e.a.terminationTab})}}}]);
-//# sourceMappingURL=35.f27eb4be.chunk.js.map
