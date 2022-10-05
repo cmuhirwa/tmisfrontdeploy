@@ -1,0 +1,2 @@
+(this.webpackJsonpTMIS=this.webpackJsonpTMIS||[]).push([[52],{541:function(n,s,t){"use strict";t.r(s),t.d(s,"Suspension",(function(){return u}));var e=t(375),i=t(2),u=function(){return Object(i.jsx)(e.b,{thisPage:e.a.suspensionTab})}}}]);
+//# sourceMappingURL=52.f0b5f7b3.chunk.js.map
