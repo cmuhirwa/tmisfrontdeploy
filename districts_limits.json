@@ -1,0 +1,738 @@
+[
+  {
+    "district": "Bugesera",
+    "A2": {
+      "Existing": 2551,
+      "New": 396,
+      "Total": 2947
+    },
+    "A1": {
+      "Existing": 371,
+      "New": 62,
+      "Total": 433
+    },
+    "A0": {
+      "Existing": 610,
+      "New": 228,
+      "Total": 838
+    },
+    "Total": {
+      "Existing": 3532,
+      "New": 686,
+      "Total": 4218
+    }
+  },
+  {
+    "district": "Burera",
+    "A2": {
+      "Existing": 2152,
+      "New": 210,
+      "Total": 2370
+    },
+    "A1": {
+      "Existing": 324,
+      "New": 17,
+      "Total": 341
+    },
+    "A0": {
+      "Existing": 493,
+      "New": 57,
+      "Total": 550
+    },
+    "Total": {
+      "Existing": 2969,
+      "New": 292,
+      "Total": 3261
+    }
+  },
+  {
+    "district": "Gakenke",
+    "A2": {
+      "Existing": 2314,
+      "New": 288,
+      "Total": 2602
+    },
+    "A1": {
+      "Existing": 332,
+      "New": 47,
+      "Total": 379
+    },
+    "A0": {
+      "Existing": 538,
+      "New": 241,
+      "Total": 779
+    },
+    "Total": {
+      "Existing": 3184,
+      "New": 576,
+      "Total": 3760
+    }
+  },
+  {
+    "district": "Gasabo",
+    "A2": {
+      "Existing": 2129,
+      "New": 133,
+      "Total": 2262
+    },
+    "A1": {
+      "Existing": 238,
+      "New": 0,
+      "Total": 238
+    },
+    "A0": {
+      "Existing": 595,
+      "New": 90,
+      "Total": 685
+    },
+    "Total": {
+      "Existing": 2.962,
+      "New": 223,
+      "Total": 3185
+    }
+  },
+  {
+    "district": "Gatsibo",
+    "A2": {
+      "Existing": 3136,
+      "New": 306,
+      "Total": 3442
+    },
+    "A1": {
+      "Existing": 586,
+      "New": 22,
+      "Total": 608
+    },
+    "A0": {
+      "Existing": 711,
+      "New": 186,
+      "Total": 897
+    },
+    "Total": {
+      "Existing": 4433,
+      "New": 514,
+      "Total": 4947
+    }
+  },
+  {
+    "district": "Gatsibo",
+    "A2": {
+      "Existing": 3136,
+      "New": 306,
+      "Total": 3442
+    },
+    "A1": {
+      "Existing": 586,
+      "New": 22,
+      "Total": 608
+    },
+    "A0": {
+      "Existing": 711,
+      "New": 186,
+      "Total": 897
+    },
+    "Total": {
+      "Existing": 4433,
+      "New": 514,
+      "Total": 4947
+    }
+  },
+  {
+    "district": "Gicumbi",
+    "A2": {
+      "Existing": 2523,
+      "New": 244,
+      "Total": 2767
+    },
+    "A1": {
+      "Existing": 427,
+      "New": 5,
+      "Total": 432
+    },
+    "A0": {
+      "Existing": 705,
+      "New": 118,
+      "Total": 823
+    },
+    "Total": {
+      "Existing": 3655,
+      "New": 367,
+      "Total": 4022
+    }
+  },
+  {
+    "district": "Gisagara",
+    "A2": {
+      "Existing": 2352,
+      "New": 194,
+      "Total": 2546
+    },
+    "A1": {
+      "Existing": 189,
+      "New": 12,
+      "Total": 201
+    },
+    "A0": {
+      "Existing": 666,
+      "New": 160,
+      "Total": 826
+    },
+    "Total": {
+      "Existing": 3207,
+      "New": 366,
+      "Total": 3573
+    }
+  },
+  {
+    "district": "Huye",
+    "A2": {
+      "Existing": 1769,
+      "New": 265,
+      "Total": 2034
+    },
+    "A1": {
+      "Existing": 226,
+      "New": 0,
+      "Total": 226
+    },
+    "A0": {
+      "Existing": 655,
+      "New": 73,
+      "Total": 728
+    },
+    "Total": {
+      "Existing": 2650,
+      "New": 338,
+      "Total": 2988
+    }
+  },
+  {
+    "district": "Kamonyi",
+    "A2": {
+      "Existing": 2199,
+      "New": 392,
+      "Total": 2591
+    },
+    "A1": {
+      "Existing": 374,
+      "New": 1,
+      "Total": 375
+    },
+    "A0": {
+      "Existing": 636,
+      "New": 126,
+      "Total": 762
+    },
+    "Total": {
+      "Existing": 3209,
+      "New": 519,
+      "Total": 3728
+    }
+  },
+  {
+    "district": "Kamonyi",
+    "A2": {
+      "Existing": 2199,
+      "New": 392,
+      "Total": 2591
+    },
+    "A1": {
+      "Existing": 374,
+      "New": 1,
+      "Total": 375
+    },
+    "A0": {
+      "Existing": 636,
+      "New": 126,
+      "Total": 762
+    },
+    "Total": {
+      "Existing": 3209,
+      "New": 519,
+      "Total": 3728
+    }
+  },
+  {
+    "district": "Karongi",
+    "A2": {
+      "Existing": 2.676,
+      "New": 506,
+      "Total": 3182
+    },
+    "A1": {
+      "Existing": 378,
+      "New": 92,
+      "Total": 470
+    },
+    "A0": {
+      "Existing": 685,
+      "New": 428,
+      "Total": 1113
+    },
+    "Total": {
+      "Existing": 3739,
+      "New": 1026,
+      "Total": 4765
+    }
+  },
+  {
+    "district": "Kayonza",
+    "A2": {
+      "Existing": 2280,
+      "New": 181,
+      "Total": 2461
+    },
+    "A1": {
+      "Existing": 334,
+      "New": 38,
+      "Total": 372
+    },
+    "A0": {
+      "Existing": 558,
+      "New": 121,
+      "Total": 679
+    },
+    "Total": {
+      "Existing": 3172,
+      "New": 340,
+      "Total": 3512
+    }
+  },
+  {
+    "district": "Kicukiro",
+    "A2": {
+      "Existing": 1011,
+      "New": 153,
+      "Total": 1164
+    },
+    "A1": {
+      "Existing": 92,
+      "New": 0,
+      "Total": 92
+    },
+    "A0": {
+      "Existing": 532,
+      "New": 73,
+      "Total": 605
+    },
+    "Total": {
+      "Existing": 1635,
+      "New": 226,
+      "Total": 1861
+    }
+  },
+  {
+    "district": "Kirehe",
+    "A2": {
+      "Existing": 2552,
+      "New": 370,
+      "Total": 2922
+    },
+    "A1": {
+      "Existing": 327,
+      "New": 0,
+      "Total": 327
+    },
+    "A0": {
+      "Existing": 602,
+      "New": 147,
+      "Total": 749
+    },
+    "Total": {
+      "Existing": 3481,
+      "New": 517,
+      "Total": 3998
+    }
+  },
+  {
+    "district": "Muhanga",
+    "A2": {
+      "Existing": 1948,
+      "New": 148,
+      "Total": 2096
+    },
+    "A1": {
+      "Existing": 328,
+      "New": 17,
+      "Total": 345
+    },
+    "A0": {
+      "Existing": 507,
+      "New": 90,
+      "Total": 597
+    },
+    "Total": {
+      "Existing": 2783,
+      "New": 255,
+      "Total": 3038
+    }
+  },
+  {
+    "district": "Musanze",
+    "A2": {
+      "Existing": 2265,
+      "New": 458,
+      "Total": 2723
+    },
+    "A1": {
+      "Existing": 288,
+      "New": 0,
+      "Total": 288
+    },
+    "A0": {
+      "Existing": 643,
+      "New": 145,
+      "Total": 788
+    },
+    "Total": {
+      "Existing": 3196,
+      "New": 603,
+      "Total": 3799
+    }
+  },
+  {
+    "district": "Ngoma",
+    "A2": {
+      "Existing": 2191,
+      "New": 190,
+      "Total": 2381
+    },
+    "A1": {
+      "Existing": 232,
+      "New": 0,
+      "Total": 232
+    },
+    "A0": {
+      "Existing": 540,
+      "New": 78,
+      "Total": 618
+    },
+    "Total": {
+      "Existing": 2963,
+      "New": 268,
+      "Total": 3231
+    }
+  },
+  {
+    "district": "Ngororero",
+    "A2": {
+      "Existing": 2271,
+      "New": 103,
+      "Total": 2374
+    },
+    "A1": {
+      "Existing": 272,
+      "New": 19,
+      "Total": 291
+    },
+    "A0": {
+      "Existing": 410,
+      "New": 130,
+      "Total": 540
+    },
+    "Total": {
+      "Existing": 2953,
+      "New": 252,
+      "Total": 3205
+    }
+  },
+  {
+    "district": "Nyabihu",
+    "A2": {
+      "Existing": 2134,
+      "New": 60,
+      "Total": 2194
+    },
+    "A1": {
+      "Existing": 357,
+      "New": 0,
+      "Total": 357
+    },
+    "A0": {
+      "Existing": 427,
+      "New": 177,
+      "Total": 604
+    },
+    "Total": {
+      "Existing": 2918,
+      "New": 237,
+      "Total": 3155
+    }
+  },
+  {
+    "district": "Nyagatare",
+    "A2": {
+      "Existing": 2933,
+      "New": 481,
+      "Total": 3414
+    },
+    "A1": {
+      "Existing": 417,
+      "New": 81,
+      "Total": 498
+    },
+    "A0": {
+      "Existing": 930,
+      "New": 241,
+      "Total": 1171
+    },
+    "Total": {
+      "Existing": 4280,
+      "New": 803,
+      "Total": 5083
+    }
+  },
+  {
+    "district": "Nyamagabe",
+    "A2": {
+      "Existing": 2322,
+      "New": 222,
+      "Total": 2544
+    },
+    "A1": {
+      "Existing": 371,
+      "New": 60,
+      "Total": 431
+    },
+    "A0": {
+      "Existing": 658,
+      "New": 197,
+      "Total": 855
+    },
+    "Total": {
+      "Existing": 3351,
+      "New": 479,
+      "Total": 3830
+    }
+  },
+  {
+    "district": "Nyamasheke",
+    "A2": {
+      "Existing": 2762,
+      "New": 129,
+      "Total": 2891
+    },
+    "A1": {
+      "Existing": 336,
+      "New": 12,
+      "Total": 348
+    },
+    "A0": {
+      "Existing": 811,
+      "New": 165,
+      "Total": 976
+    },
+    "Total": {
+      "Existing": 3909,
+      "New": 306,
+      "Total": 4215
+    }
+  },
+  {
+    "district": "Nyanza",
+    "A2": {
+      "Existing": 2215,
+      "New": 179,
+      "Total": 2394
+    },
+    "A1": {
+      "Existing": 332,
+      "New": 8,
+      "Total": 340
+    },
+    "A0": {
+      "Existing": 558,
+      "New": 137,
+      "Total": 695
+    },
+    "Total": {
+      "Existing": 3105,
+      "New": 324,
+      "Total": 3429
+    }
+  },
+  {
+    "district": "Nyarugenge",
+    "A2": {
+      "Existing": 1124,
+      "New": 92,
+      "Total": 1216
+    },
+    "A1": {
+      "Existing": 123,
+      "New": 1,
+      "Total": 124
+    },
+    "A0": {
+      "Existing": 444,
+      "New": 56,
+      "Total": 500
+    },
+    "Total": {
+      "Existing": 1691,
+      "New": 149,
+      "Total": 1840
+    }
+  },
+  {
+    "district": "Nyaruguru",
+    "A2": {
+      "Existing": 1985,
+      "New": 165,
+      "Total": 2150
+    },
+    "A1": {
+      "Existing": 334,
+      "New": 0,
+      "Total": 334
+    },
+    "A0": {
+      "Existing": 508,
+      "New": 214,
+      "Total": 722
+    },
+    "Total": {
+      "Existing": 2827,
+      "New": 379,
+      "Total": 3206
+    }
+  },
+  {
+    "district": "Rubavu",
+    "A2": {
+      "Existing": 2356,
+      "New": 142,
+      "Total": 2498
+    },
+    "A1": {
+      "Existing": 310,
+      "New": 0,
+      "Total": 310
+    },
+    "A0": {
+      "Existing": 688,
+      "New": 151,
+      "Total": 839
+    },
+    "Total": {
+      "Existing": 3354,
+      "New": 293,
+      "Total": 3647
+    }
+  },
+  {
+    "district": "Ruhango",
+    "A2": {
+      "Existing": 1893,
+      "New": 221,
+      "Total": 2114
+    },
+    "A1": {
+      "Existing": 381,
+      "New": 0,
+      "Total": 381
+    },
+    "A0": {
+      "Existing": 459,
+      "New": 240,
+      "Total": 699
+    },
+    "Total": {
+      "Existing": 2733,
+      "New": 461,
+      "Total": 3194
+    }
+  },
+  {
+    "district": "Rulindo",
+    "A2": {
+      "Existing": 1860,
+      "New": 285,
+      "Total": 2145
+    },
+    "A1": {
+      "Existing": 301,
+      "New": 53,
+      "Total": 354
+    },
+    "A0": {
+      "Existing": 601,
+      "New": 188,
+      "Total": 789
+    },
+    "Total": {
+      "Existing": 2762,
+      "New": 526,
+      "Total": 3288
+    }
+  },
+  {
+    "district": "Rusizi",
+    "A2": {
+      "Existing": 2165,
+      "New": 237,
+      "Total": 2402
+    },
+    "A1": {
+      "Existing": 338,
+      "New": 23,
+      "Total": 361
+    },
+    "A0": {
+      "Existing": 745,
+      "New": 195,
+      "Total": 940
+    },
+    "Total": {
+      "Existing": 3248,
+      "New": 455,
+      "Total": 3703
+    }
+  },
+  {
+    "district": "Rutsiro",
+    "A2": {
+      "Existing": 2249,
+      "New": 156,
+      "Total": 2405
+    },
+    "A1": {
+      "Existing": 328,
+      "New": 33,
+      "Total": 361
+    },
+    "A0": {
+      "Existing": 479,
+      "New": 230,
+      "Total": 709
+    },
+    "Total": {
+      "Existing": 3056,
+      "New": 419,
+      "Total": 3475
+    }
+  },
+  {
+    "district": "Rwamagana",
+    "A2": {
+      "Existing": 2049,
+      "New": 152,
+      "Total": 2201
+    },
+    "A1": {
+      "Existing": 348,
+      "New": 17,
+      "Total": 365
+    },
+    "A0": {
+      "Existing": 633,
+      "New": 168,
+      "Total": 801
+    },
+    "Total": {
+      "Existing": 3030,
+      "New": 337,
+      "Total": 3367
+    }
+  }
+]
