@@ -578,8 +578,8 @@
     "district": "Nyaruguru",
     "A2": {
       "Existing": 1985,
-      "New": 165,
-      "Total": 2150
+      "New": 179,
+      "Total": 2164
     },
     "A1": {
       "Existing": 334,
@@ -715,9 +715,9 @@
   {
     "district": "Rwamagana",
     "A2": {
-      "Existing": 2049,
+      "Existing": 2124,
       "New": 152,
-      "Total": 2201
+      "Total": 2276
     },
     "A1": {
       "Existing": 348,
@@ -730,9 +730,9 @@
       "Total": 801
     },
     "Total": {
-      "Existing": 3030,
+      "Existing": 3105,
       "New": 337,
-      "Total": 3367
+      "Total": 3442
     }
   }
 ]
