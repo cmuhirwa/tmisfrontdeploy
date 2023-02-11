@@ -1,0 +1,56 @@
+[
+  {
+    "names": "UWASE Pauline",
+    "phone": "0780827828",
+    "districts": ["Kicukiro", "Bugesera", "Ngoma", "Kirehe"],
+    "category": "SUPPORT"
+  },
+  {
+    "names": "MBABAZI Carine",
+    "phone": "0788973220",
+    "districts": ["Gasabo", "Rulindo", "Gakenke", "Burera"],
+    "category": "SUPPORT"
+  },
+  {
+    "names": "KAMIKAZI Giselle",
+    "phone": "0787998185",
+    "districts": ["Rwamagana", "Kayonza", "Gatsibo", "Nyagatare"],
+    "category": "SUPPORT"
+  },
+  {
+    "names": "MUKABAYIZERE Ruth",
+    "phone": "0784975905",
+    "districts": ["Rusizi", "Nyamasheke", "Karongi", "Rutsiro"],
+    "category": "SUPPORT"
+  },
+  {
+    "names": "IRADUKUNDA Suavis",
+    "phone": "0786783525",
+    "districts": ["Muhanga", "Ruhango", "Nyanza", "Huye"],
+    "category": "SUPPORT"
+  },
+  {
+    "names": "INEZA Mahmoud Fatina",
+    "phone": "0788356564",
+    "districts": ["Gisagara", "Nyaruguru", "Nyamagabe"],
+    "category": "SUPPORT"
+  },
+  {
+    "names": "NIYONKURU Jean De Dieu",
+    "phone": "0788623334",
+    "districts": ["Ngorero", "Nyabihu", "Rubavu", "Musanze"],
+    "category": "SUPPORT"
+  },
+  {
+    "names": "UWAMAHORO Diane",
+    "phone": "0787018330",
+    "districts": ["Nyarugenge", "Kamonyi", "Gicumbi"],
+    "category": "SUPPORT"
+  },
+  {
+    "names": "TUYISENGE Ephrem",
+    "phone": "0782100249",
+    "districts": [],
+    "category": "SUPERVISOR"
+  }
+]
