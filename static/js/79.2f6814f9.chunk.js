@@ -1,2 +1,0 @@
-(this.webpackJsonpTMIS=this.webpackJsonpTMIS||[]).push([[79],{579:function(e,n,s){"use strict";s.r(n),s.d(n,"RequestApprovalDde",(function(){return i}));s(4);var c=s(53),t=s(92),r=s(486),a=s(1),i=function(){return Object(a.jsxs)(a.Fragment,{children:[Object(a.jsx)("div",{className:"px-3 container mx-auto mt-3",children:Object(a.jsx)(t.a,{className:"",children:"Incoming Transfers"})}),Object(a.jsx)(c.a,{children:Object(a.jsx)(r.a,{})})]})}}}]);
-//# sourceMappingURL=79.2f6814f9.chunk.js.map
